@@ -29,4 +29,6 @@ O projeto foi todo feito utilizando o software WiRedPanda na versão 4.1.12 . Te
 
 # Integrantes
 Joana Carla Castro Gomes
-
+Leandro Pereira da Silva Filho
+Maria Eduarda Nunes Costa
+Thainara Oliveira Meireles
