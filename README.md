@@ -20,6 +20,7 @@ Exibindo a diferença se comparado ao referencial no display de 7 segmentos, ind
 Para isso, implementamos comparadores lógicos, subtrator binário, registradores com flip-flops tipo D para armazenar valores anteriores, e portas lógicas (OR) para tomada de decisão combinada. A simulação foi realizada no WiredPanda, e o circuito foi validado funcionalmente com base nos critérios estabelecidos pela lógica digital.
 
 # Vídeo de apresentação da ideia (Pitch acadêmico):
+https://drive.google.com/file/d/1eZfYARznHMN730PAokTp006YYoM6NPyN/view?usp=drive_link
 
 # Vídeo do circuito completo (mostrando e explicando o circuito no panda)
 https://drive.google.com/file/d/1FhT8555XfPAVtedlRrl8_pKMKKbHzodD/view?usp=sharing
