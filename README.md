@@ -24,6 +24,8 @@ Para isso, implementamos comparadores lógicos, subtrator binário, registradore
 # Vídeo do circuito completo (mostrando e explicando o circuito no panda)
 https://drive.google.com/file/d/1FhT8555XfPAVtedlRrl8_pKMKKbHzodD/view?usp=sharing
 
+# Detalhes
+O projeto foi todo feito utilizando o software WiRedPanda na versão 4.1.12 . Tentamos deixar o circutio o mais bem explicado possível com todos as partes do circuito separadas e legendas para explicar cada uma delas. Para mais detalhes de como funciona o circuito, pode massistir o vídeo do circuito completo ou nos procurar.
 
 # Integrantes
 Joana Carla Castro Gomes
